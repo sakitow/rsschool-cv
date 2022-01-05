@@ -1,5 +1,5 @@
 https://github.com/sakitow/rsschool-cv.git
 
 
-https://github.com/sakitow/rsschool-cv.
+https://github.com/sakitow/rsschool-cv
 
